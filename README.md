@@ -15,6 +15,7 @@ Even number of elements (Hash can be any cryptographically secure hash function)
 ### 3.	Building a Merkle Proof 
 
 a.	Verify that L3 was indeed inside the tree and took part in the construction of the Root Hash 
+
 b.	The nodes that are colored in green are required for the proof 
 
 ![image3](./images/im3.png)
